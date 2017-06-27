@@ -26,7 +26,7 @@ END {
     print "hosts:                 | " hosts
     print "hosts connected        | " hosts_connected
     print "hosts without response | " hosts_noresponse
-    print "-----------------------|-----"
+    print "-----------------------+-----"
     print "states succeeded:      | " succeeded
     print "states with changes:   | " changes
     print "states failed:         | " failed
